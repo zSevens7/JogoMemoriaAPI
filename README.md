@@ -55,4 +55,4 @@ As APIs podem ser usadas para:</p>
 </pre>
 
 <h5>Licença</h5>
-<p>Este projeto está licenciado sob a Licença MIT - veja o arquivo <code>LICENSE</code> para mais detalhes.</p>
+<p>Este projeto não possui licença, fiz ele pessoalmente como um projeto pessoal.</p>
